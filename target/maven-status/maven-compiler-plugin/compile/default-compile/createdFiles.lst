@@ -1,0 +1,6 @@
+com/cts/estock/controller/CompanyRegistrationaController.class
+com/cts/estock/EStockRegisterApplication.class
+com/cts/estock/domain/CompanyRegistration.class
+com/cts/estock/service/CompanyRegistrationService.class
+com/cts/estock/repository/CompanyRegistrationRepository.class
+com/cts/estock/MongoConfiguration.class
